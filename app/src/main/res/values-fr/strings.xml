@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Le SoporteDiferentesPantallasB (Frances)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Le Fragmente Detalle</string>
+    <string name="selector_fragment_title">Le Titulo fragmento selector</string>
+
+    <string-array name="generos">
+        <item>Le Accióne</item>
+        <item>Le Romanyocas</item>
+        <item>Le Terror</item>
+        <item>Le Ciencia ficcion</item>
+    </string-array>
+</resources>

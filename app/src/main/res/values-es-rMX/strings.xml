@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoporteDiferentesPantallasB (Español)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragmento Detalle</string>
+    <string name="selector_fragment_title">Titulo fragmento selector</string>
+
+    <string name="menu_referencias">Referencias</string>
+    <string name="menu_ultimo">Ultimo leido</string>
+    <string name="menu_buscar">Buscar</string>
+    <string name="menu_acerca">Acerca de...</string>
+
+    <string-array name="generos">
+        <item>Acción</item>
+        <item>Romanyocas</item>
+        <item>Terror</item>
+        <item>Ciencia ficcion</item>
+    </string-array>
+
+    <string-array name="mnuContextualSelector">
+        <item>Compartir</item>
+        <item>Agregar</item>
+        <item>Eliminar</item>
+    </string-array>
+</resources>

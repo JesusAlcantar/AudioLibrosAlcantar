@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="generos">
+        <item>Acción</item>
+        <item>Romanyocas</item>
+        <item>Terror</item>
+        <item>Ciencia ficcion</item>
+    </string-array>
+    <string-array name="mnuContextualSelector">
+        <item>Compartir</item>
+        <item>Agregar</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string name="app_name">SoporteDiferentesPantallasB (Español)</string>
+    <string name="hello_blank_fragment">Fragmento Detalle</string>
+    <string name="menu_acerca">Acerca de...</string>
+    <string name="menu_buscar">Buscar</string>
+    <string name="menu_referencias">Referencias</string>
+    <string name="menu_ultimo">Ultimo leido</string>
+    <string name="selector_fragment_title">Titulo fragmento selector</string>
+</resources>

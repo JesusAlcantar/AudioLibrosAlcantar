@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="net.ivanvega.soportediferentespantallasb"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:5:5-83
+11-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:6:5-93
+12-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.android.exoplayer:exoplayer-core:2.8.0] C:\Users\Alcantar\.gradle\caches\transforms-3\dd93b49990310fd3e403a0c771edfc8a\transformed\jetified-exoplayer-core-2.8.0\AndroidManifest.xml:24:5-79
+13-->[com.google.android.exoplayer:exoplayer-core:2.8.0] C:\Users\Alcantar\.gradle\caches\transforms-3\dd93b49990310fd3e403a0c771edfc8a\transformed\jetified-exoplayer-core-2.8.0\AndroidManifest.xml:24:22-76
+14
+15    <application
+15-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:8:5-27:19
+16        android:allowBackup="true"
+16-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:9:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.5.0] C:\Users\Alcantar\.gradle\caches\transforms-3\97e7ec19bd11dff7ae3d399ac9d0fa5b\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.SoporteDiferentesPantallasB" >
+24-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:14:9-65
+25        <activity
+25-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:15:9-23:20
+26            android:name="net.ivanvega.soportediferentespantallasb.MainActivity"
+26-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:16:13-41
+27            android:exported="true" >
+27-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:17:13-36
+28            <intent-filter>
+28-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:18:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:19:17-69
+29-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:21:17-77
+31-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <service android:name="net.ivanvega.soportediferentespantallasb.services.AudioPlayerService" >
+35-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:24:9-26:19
+35-->C:\Users\Alcantar\OneDrive\Escritorio\Nueva carpeta\u1\AudioLibroAlcantar\AudioLibrosAlcantar\app\src\main\AndroidManifest.xml:24:18-61
+36        </service>
+37    </application>
+38
+39</manifest>

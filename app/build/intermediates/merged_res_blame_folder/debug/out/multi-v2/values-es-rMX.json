@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Alcantar\\OneDrive\\Escritorio\\Nueva carpeta\\u1\\AudioLibroAlcantar\\AudioLibrosAlcantar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rMX\\values-es-rMX.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alcantar\\OneDrive\\Escritorio\\Nueva carpeta\\u1\\AudioLibroAlcantar\\AudioLibrosAlcantar\\app\\src\\main\\res\\values-es-rMX\\strings.xml",
+                    "from": {
+                        "startLines": "12,19,2,4,10,9,7,8,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "545,725,55,188,491,444,334,391,255",
+                        "endLines": "17,23,2,4,10,9,7,8,5",
+                        "endColumns": "19,19,74,66,52,46,56,52,77",
+                        "endOffsets": "719,878,125,250,539,486,386,439,328"
+                    },
+                    "to": {
+                        "startLines": "2,8,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,234,392,467,534,587,634,691,744",
+                        "endLines": "7,12,13,14,15,16,17,18,19",
+                        "endColumns": "19,19,74,66,52,46,56,52,77",
+                        "endOffsets": "229,387,462,529,582,629,686,739,817"
+                    }
+                }
+            ]
+        }
+    ]
+}

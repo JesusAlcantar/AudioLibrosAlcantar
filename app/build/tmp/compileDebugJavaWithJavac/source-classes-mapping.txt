@@ -1,0 +1,21 @@
+net/ivanvega/soportediferentespantallasb/Libro.java
+ net.ivanvega.soportediferentespantallasb.Libro
+net/ivanvega/soportediferentespantallasb/BuildConfig.java
+ net.ivanvega.soportediferentespantallasb.BuildConfig
+net/ivanvega/soportediferentespantallasb/MainActivity.java
+ net.ivanvega.soportediferentespantallasb.MainActivity
+ net.ivanvega.soportediferentespantallasb.MainActivity$1
+net/ivanvega/soportediferentespantallasb/MiAdaptadorPersonaliza.java
+ net.ivanvega.soportediferentespantallasb.MiAdaptadorPersonaliza
+ net.ivanvega.soportediferentespantallasb.MiAdaptadorPersonaliza$ViewHolder
+net/ivanvega/soportediferentespantallasb/services/AudioPlayerService.java
+ net.ivanvega.soportediferentespantallasb.services.AudioPlayerService
+ net.ivanvega.soportediferentespantallasb.services.AudioPlayerService$1
+ net.ivanvega.soportediferentespantallasb.services.AudioPlayerService$2
+net/ivanvega/soportediferentespantallasb/SelectorFragment.java
+ net.ivanvega.soportediferentespantallasb.SelectorFragment
+ net.ivanvega.soportediferentespantallasb.SelectorFragment$1
+ net.ivanvega.soportediferentespantallasb.SelectorFragment$2
+ net.ivanvega.soportediferentespantallasb.SelectorFragment$2$1
+net/ivanvega/soportediferentespantallasb/DetalleFragment.java
+ net.ivanvega.soportediferentespantallasb.DetalleFragment
